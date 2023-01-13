@@ -29,3 +29,34 @@ Given the following URLs from an example API:
 
 7. What are the available endpoints?
    /users, /products, /products/<some-id-of-a-product-here>
+
+8. Try to think of a time you used each of the four main methods
+   (GET, POST, PUT, DELETE) in the real world as you went about
+   your regular usage of the internet. E.g. today, I checked the
+   weather on my phone which probably sent a GET request to retrieve
+   weather information.
+
+GET: I open Scrimba.com URL to open Scrimba my current course page,
+it's a GET Request to retrive the course information.
+
+POST: When I save my notes in each videos that I POST Request my notes to server.
+
+PUT: When I edit some code in my existing notes that is the PUT Request.
+
+DELETE: When I delete my notes that is the DELETE Request send to server to delete the notes.
+
+.......................................OR................................
+
+Try to think of a time you used each of the four main methods
+(GET, POST, PUT, DELETE) in the real world as you went about
+your regular usage of the internet. E.g. today, I checked the
+weather on my phone which probably sent a GET request to retrieve
+weather information.
+
+GET: Retrieved weather information on my phone
+
+POST: Created a new screencast (the one you're waching now)
+
+PUT: Marked items from my shared todo list as "completed"
+
+DELETE: Deleted a message on Slack that was no longer necessary
